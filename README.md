@@ -4,5 +4,6 @@ The solutions mainly use the *numpy* mathematical library and are usually delive
 
 ## Implemented algorithms
 * [Naive Bayes](./Naive_Bayes.ipynb )
+* [Polynomial Curve fitting](./Polynomial_Curve_Fitting.ipynb): evaluation of models of several degree
 * [Linear Regression](./Linear_Regression.ipynb): both frequentist and bayesian approach
 * [Linear Classification](./Linear_Classification.ipynb): least squares
