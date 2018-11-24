@@ -8,6 +8,8 @@ The solutions mainly use the *numpy* mathematical library and are usually delive
 * [Linear Regression](./Linear_Regression.ipynb): both frequentist and bayesian approach
 * [Linear Classification](./Linear_Classification.ipynb): least squares
 * [Principal Component Analysis](./Principal_Component_Analysis.ipynb)
+* [Monte Carlo Method](./Monte_Carlo_Method.ipynb)
+* [Markov Chains](./Markov_Chains.ipynb)
 
 
 ## Neural Networks
