@@ -1,6 +1,7 @@
 # Machine Learning experiments
-In this repository you will find some very simple implementations of classical machine learning algorithms.
-The solutions mainly use the *numpy* mathematical library and are usually delivered in the form of Jupyter Notebooks.
+This repository contains Jupyter Notebooks with explanations and implementation of some Machine Learning, Statistics and Data Analysis methods. Each argument is firstly described and theoretically explained and then implemented *without* using any external library.
+
+> Concepts are more important than efficiency.
 
 ## Classical Machine Learning
 * [Naive Bayes](./Naive_Bayes.ipynb )
@@ -10,6 +11,7 @@ The solutions mainly use the *numpy* mathematical library and are usually delive
 * [Principal Component Analysis](./Principal_Component_Analysis.ipynb)
 * [Monte Carlo Method](./Monte_Carlo_Method.ipynb)
 * [Markov Chains](./Markov_Chains.ipynb)
+* [Hidden Markov Model](./Hidden_Markov_Model.ipynb)
 
 
 ## Neural Networks
