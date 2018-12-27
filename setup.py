@@ -6,4 +6,5 @@ setup(name='src',
       url='https://github.com/lucananni93/Machine-learning-experiments',
       author='Luca Nanni',
       author_email='lucananni93@gmail.com',
-      packages=find_packages())
+      packages=find_packages(),
+      install_requires=['numpy'])
