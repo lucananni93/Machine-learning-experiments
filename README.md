@@ -16,18 +16,29 @@ Please remember that this code and notebooks are purely for learning purposes an
     * [(2.4) Statistical Decision Theory](./notebooks/Elements_Of_Statistical_Learning/02_Overview_of_Supervised_Learning/2.4_Statistical_Decision_Theory.ipynb)
 
 ## Classical Machine Learning
-* [Naive Bayes](./notebooks/Naive_Bayes.ipynb )
-* [Polynomial Curve fitting](./Polynomial_Curve_Fitting.ipynb): evaluation of models of several degree
-* [Linear Regression](./Linear_Regression.ipynb): both frequentist and bayesian approach
-* [Linear Classification](./Linear_Classification.ipynb): least squares
-* [Principal Component Analysis](./Principal_Component_Analysis.ipynb)
-* [Monte Carlo Method](./Monte_Carlo_Method.ipynb)
-* [Markov Chains](./Markov_Chains.ipynb)
-* [Hidden Markov Model](./Hidden_Markov_Model.ipynb)
+
+### Supervised Learning
+* [Linear Regression](./notebooks/supervised_learning/Linear_Regression.ipynb): both frequentist and bayesian approach
+* [Linear Classification](./notebooks/supervised_learning/Linear_Classification.ipynb): least squares
+* [Naive Bayes](./notebooks/supervised_learning/Naive_Bayes.ipynb )
+
+### Markovian Models
+* [Markov Chains](./notebooks/markovian_models/Markov_Chains.ipynb)
+* [Hidden Markov Model](./notebooks/markovian_models/Hidden_Markov_Model.ipynb)
+
+### Dimensionality reduction
+* [Principal Component Analysis](./dimensionality_reduction/Principal_Component_Analysis.ipynb)
+
+### Statistics
+* [Polynomial Curve fitting](./statistics/Polynomial_Curve_Fitting.ipynb): evaluation of models of several degree
+* [Monte Carlo Method](./statistics/Monte_Carlo_Method.ipynb)
+
+### Neural Networks
+* [Restricted Boltzmann Machine](./neural_networks/Restricted_Boltzmann_machine.ipynb)
 
 
-## Neural Networks
-* [Restricted Boltzmann Machine](./Restricted_Boltzmann_machine.ipynb)
+## Tensorflow tutorial
+Some experiments I have done while learning the <a href="https://www.tensorflow.org/">Tensorflow Machine Learning library</a>.
 
 ## The code library
 In the [src](./src) folder there are some utility functions that I use in the various notebooks, like data generation 
