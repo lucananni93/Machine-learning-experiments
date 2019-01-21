@@ -27,14 +27,14 @@ Please remember that this code and notebooks are purely for learning purposes an
 * [Hidden Markov Model](./notebooks/markovian_models/Hidden_Markov_Model.ipynb)
 
 ### Dimensionality reduction
-* [Principal Component Analysis](./dimensionality_reduction/Principal_Component_Analysis.ipynb)
+* [Principal Component Analysis](./notebooks/dimensionality_reduction/Principal_Component_Analysis.ipynb)
 
 ### Statistics
-* [Polynomial Curve fitting](./statistics/Polynomial_Curve_Fitting.ipynb): evaluation of models of several degree
-* [Monte Carlo Method](./statistics/Monte_Carlo_Method.ipynb)
+* [Polynomial Curve fitting](./notebooks/statistics/Polynomial_Curve_Fitting.ipynb): evaluation of models of several degree
+* [Monte Carlo Method](./notebooks/statistics/Monte_Carlo_Method.ipynb)
 
 ### Neural Networks
-* [Restricted Boltzmann Machine](./neural_networks/Restricted_Boltzmann_machine.ipynb)
+* [Restricted Boltzmann Machine](./notebooks/neural_networks/Restricted_Boltzmann_machine.ipynb)
 
 
 ## Tensorflow tutorial
